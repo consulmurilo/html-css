@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(59, 59, 59);
+    font: 1em Arial, sans-serif;
+    color: white;
+}
+
+.principal {
+    color: black;
+    text-align: center;
+    font-size: 3em;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgb(162, 162, 162);
+}
+
+h2 {
+    color: rgb(49, 49, 49);
+    background-color: rgb(216, 216, 216);
+    border-radius: 5px;
+}
+
+p {
+    text-indent: 1em;
+}

@@ -50,7 +50,7 @@ section {
     color: white;
     background-color: rgba(0, 0, 0, 0.500);
     display: inline-block;
-    padding: 5px;
+    padding: 15px;
     text-shadow: 1px 1px 0px black;
 }
 
@@ -59,6 +59,7 @@ section {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 5px 6px 13px 0px rgba(0, 0, 0, 0.400);
 }
 
 #livro {
@@ -66,6 +67,7 @@ section {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 5px 6px 13px 0px rgba(0, 0, 0, 0.400);
 }
 
 footer {
